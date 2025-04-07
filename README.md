@@ -37,10 +37,6 @@ This repository contains the following workflows:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Support
 
 If you have any questions or need help with the workflows, please open an issue in this repository.
@@ -49,3 +45,7 @@ If you have any questions or need help with the workflows, please open an issue 
 
 - Thanks to the n8n team for creating such an amazing tool
 - All contributors who have helped with the workflows 
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
